@@ -1,0 +1,40 @@
+<resources>
+    <!-- main app name -->
+    <string name="app_name">Baking App</string>
+
+    <!-- UI design -->
+    <string name="recipe_object">recipe_object</string>
+    <string name="recipe_name">recipe_name</string>
+    <string name="recipe_step_list">recipe_step_list</string>
+    <string name="position_value">position_value</string>
+    <string name="player_position">player_position</string>
+    <string name="player_play_state">player_play_state</string>
+    <string name="recipe_list_fragment">recipe_list_fragment</string>
+    <string name="description_list_fragment">description_list_fragment</string>
+    <string name="instruction_fragment">instruction_fragment</string>
+
+    <!-- widget values for design -->
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="widget_default_text">No recipes to display...</string>
+
+    <!-- JSON values  -->
+    <string name="id">id</string>
+    <string name="name">name</string>
+    <string name="servings">servings</string>
+    <string name="image">image</string>
+    <string name="ingredients">ingredients</string>
+    <string name="steps">steps</string>
+    <string name="quantity">quantity</string>
+    <string name="measure">measure</string>
+    <string name="ingredient_val">ingredient</string>
+    <string name="short_description">shortDescription</string>
+    <string name="description">description</string>
+    <string name="content_description">No image</string>
+    <string name="video">videoURL</string>
+    <string name="thumbnail">thumbnailURL</string>
+    <string name="ingredients_text">Ingredients</string>
+    <string name="no_video">No media available</string>
+    <string name="next_step">Next</string>
+    <string name="prev_step">Previous</string>
+</resources>
